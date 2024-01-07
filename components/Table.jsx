@@ -1,5 +1,3 @@
-import { getData } from "./data";
-
 export default function (props) {
   return (
     <>
